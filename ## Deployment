@@ -1,0 +1,19 @@
+## Deployment
+
+Aplicația este configurată pentru deployment pe Vercel. Conectează repository-ul GitHub la Vercel și asigură-te că toate variabilele de mediu sunt configurate în dashboard-ul Vercel.
+
+## Structura proiectului
+
+- `/components`: Componente React reutilizabile
+- `/context`: Context API pentru state management
+- `/hooks`: Custom hooks
+- `/pages`: Pagini Next.js
+- `/public`: Fișiere statice
+- `/services`: Servicii pentru API-uri externe
+- `/styles`: Stiluri globale
+- `/types`: Definiții TypeScript
+- `/utils`: Funcții utilitare
+
+## Licență
+
+Acest proiect este licențiat sub licența MIT.
